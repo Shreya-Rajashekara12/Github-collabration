@@ -1,1 +1,1 @@
- this repository demonstrates github features 
+welcome to github collabration project 
