@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-this line is modified in feature1 branch 
-=======
+this line is modified in feature1 branch
  this line is added by feature1
 welcome to github collabration project 
 this repository demonstrates github features
->>>>>>> e80f07db181197fa4186c38dea182cb9de8d111c
+
+
